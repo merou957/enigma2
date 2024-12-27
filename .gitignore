@@ -41,3 +41,8 @@ compile
 mipsel-oe-linux-libtool
 /.vs
 .vscode/
+tuxtxt/
+tuxtxt/
+*.pyc
+*.pyo
+.vscode/
